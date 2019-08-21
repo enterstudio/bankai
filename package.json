@@ -45,7 +45,7 @@
     "server-sink": "^1.0.0",
     "sheetify": "^6.0.1",
     "subarg": "^1.0.0",
-    "uglifyify": "^3.0.4",
+    "uglifyify": "^5.0.2",
     "unassertify": "^2.0.3",
     "watchify": "^3.7.0",
     "watchify-request": "^2.1.0",
